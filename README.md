@@ -84,8 +84,3 @@ Poniżej znajdziesz informacje dotyczące skryptu:
   - Parametr 2: Wynikowy plik *shp
     - Data Typ: (Shapefile),
     - Direction: (Output).
-## Kontakt
-
-Jeśli masz pytania, skontaktuj się z daniel.buchar@orange.com lub otwórz nowe zapytanie (issue) w repozytorium.
-
-Dziękujemy :)
