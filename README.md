@@ -1,14 +1,6 @@
-# OrangeHub - Repozytorium
-
-**Właściciel repozytorium:** Orange Polska
-
 ## Ostrzeżenie Prawne
 
-Kopiowanie i pobieranie repozytorium oraz korzystanie z niego bez odpowiednich formalności prawnych jest surowo zabronione. Prosimy o skontaktowanie się z właścicielem daniel.buchar@orange.com repozytorium w celu uzyskania zgody.
-
-## Opis
-
-Repozytorium zawiera skrypty w języku Python służące do przetwarzania danych przestrzennych. Repozytorium skryptów obejmuje okres od grudnia 2023 roku i będzie sukcesywnie rozbudowywane o nowe narzędzia oraz funkcje.
+Kopiowanie i pobieranie repozytorium oraz korzystanie z niego bez odpowiednich formalności prawnych jest surowo zabronione.
 
 ## Narzędzia i Skrypty
 
